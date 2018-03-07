@@ -4,11 +4,9 @@ title: Art
 subtitle: Progression of colors for unapparent reason
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I once drew a pomagrante.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-- can I include images?
+![test image size](/img/pomegranate.jpg){:class="img-responsive"}
 
 What else do you need?
 
