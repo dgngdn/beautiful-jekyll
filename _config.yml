@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Make Things:
     - Make Food!: " "
-    - Make Art!: " "
+    - Make Art!: "art"
     - Make Robots!: " "
 
 # Image to show in the navigation bar - image must be a square (width = height)
