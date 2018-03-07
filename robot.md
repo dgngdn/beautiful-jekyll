@@ -7,7 +7,8 @@ subtitle: Progression of colors for unapparent reason
 My name is Inigo Montoya. I have the following qualities:
 
 look at my robot!
-![](/img/Robot_Arm_1.jpeg)
+![test image size](/img/Robot_Arm_1.jpeg){:class="img-responsive"}
+
 What else do you need?
 
 ### my history
