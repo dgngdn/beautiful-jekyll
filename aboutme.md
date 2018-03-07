@@ -5,6 +5,7 @@ subtitle: What I do
 #bigimg: /img/canoe.png
 
 ---
+<div style="text-align:center"><img src ="/img/selfp.jpg" /></div>
 
 Hey! I'm a Chemical Engineering PhD Candidate in UC Berkeley working on advanced control applications for atmospheric pressure plasma processes.
 
