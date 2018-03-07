@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Art
-subtitle: Progression of colors for unapparent reason
+title: Robots
+subtitle: Helping take over the world, one gear at a time
 ---
 
 My name is Inigo Montoya. I have the following qualities:
