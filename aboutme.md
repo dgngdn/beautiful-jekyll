@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: What I do
-bigimg: /img/canoe.png
+#bigimg: /img/canoe.png
 
 ---
 
