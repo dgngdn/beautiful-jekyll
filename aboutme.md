@@ -2,6 +2,8 @@
 layout: page
 title: About me
 subtitle: What I do
+bigimg: /img/canoe.png
+
 ---
 
 Hey! I'm a Chemical Engineering PhD Candidate in UC Berkeley working on advanced control applications for atmospheric pressure plasma processes.
