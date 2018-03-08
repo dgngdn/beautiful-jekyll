@@ -6,7 +6,9 @@ subtitle: Helping take over the world, one gear at a time
 
 
 look at my robot!
-![test image size](/img/Robot_Arm_1.jpeg){:class="img-responsive"}
+
+<div style="text-align:center"> <img src ="/img/Robot_Arm_1.jpeg" /></div>
+
 
 ### My story
 I made a few robots but precision is hard!
