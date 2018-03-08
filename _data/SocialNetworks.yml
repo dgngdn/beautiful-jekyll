@@ -98,5 +98,5 @@ yelp:
 
 thingverse:
   name: "Thingverse"
-  baseURL: "https://thingverse.com/"
+  baseURL: "https://www.thingiverse.com/"
   icon: "fa-cube"
