@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What I do
+#bigimg: /img/canoe.png
+
 ---
+<div style="text-align:center"><img src ="/img/selfp.jpg" /></div>
 
-My name is Inigo Montoya. I have the following qualities:
+Hey! I'm a Chemical Engineering PhD Candidate in UC Berkeley working on advanced control applications for atmospheric pressure plasma processes.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Take a look at my [repository](https://github.com/dgngdn/plasma-control) to see my control project.
 
-What else do you need?
+<div style="text-align:center"> <img src ="/img/plasma2.jpeg" /></div>
+
+I also dabble in [robotics](https://github.com/dgngdn/Actuator_Arm).
+
+<div style="text-align:center"> <img src ="/img/plasma_robot.jpg" /></div>
+
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm from Turkey!

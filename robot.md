@@ -4,13 +4,11 @@ title: Robots
 subtitle: Helping take over the world, one gear at a time
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
 look at my robot!
-![test image size](/img/Robot_Arm_1.jpeg){:class="img-responsive"}
 
-What else do you need?
+<div style="text-align:center"> <img src ="/img/Robot_Arm_1.jpeg" /></div>
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My story
+I made a few robots but precision is hard!
